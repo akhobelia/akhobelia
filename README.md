@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Aleksandre 👋
 
-<!--
-**akhobelia/akhobelia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Technical Support Specialist based in Tbilisi, Georgia.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 Technical Support / IT Support
+- 🐧 Learning Linux & System Administration
+- 🔐 Building skills in Cybersecurity
+- 🤖 Building practical AI-assisted projects
+- 🛠️ Interested in infrastructure, automation and real-world IT systems
+
+## Current Projects
+
+- Xelaxi AI
+- Freelance Hunter
+- Salary GE
+- SysAdmin Lab
+
+
+## Currently Learning
+
+
+- Linux Administration
+- Networking
+- Bash
+- Python for Cybersecurity
